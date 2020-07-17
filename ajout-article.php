@@ -1,8 +1,8 @@
 <center>
-<html><link rel="stylesheet" href="style/style.css"></html>
+<html><link rel="stylesheet" href="style.css"></html>
 <?php
 
-$bdd = new PDO("mysql:host=localhost;dbname=blog-odile;charset=utf8", "root", "");
+$bdd = new PDO("utilisateurs.php", "root", "");
 if(isset($_POST['titre'], $_POST['red_article'])) {
    if(!empty($_POST['titre']) AND !empty($_POST['red_article'])) {
       
@@ -19,21 +19,24 @@ if(isset($_POST['titre'], $_POST['red_article'])) {
 <!DOCTYPE html>
 <html>
 <head>
+   <?php include "header2.php"?>
+   <link rel="stylesheet" href="../style/style.css">
    <title>Rédaction d'un article</title>
+   <h6>Rédaction d'un article</h6>
    <meta charset="utf-8">
 </head>
 <body>
 <form method="POST">
 <fieldset> 
-<p>Rédiger un article :</p>
+
 <label for="titre">Titre</label>
     <div id="titre">
         <input type="text" name="titre" id="titre">
     </div>
 
-    <textarea name="red_article" placeholder="Votre message"></textarea><br />
+    <br><textarea name="red_article" placeholder="Votre message"></textarea><br />
    
-      <br><input type="submit" value="Envoyer" />
+      <br><br><input type="submit" value="Envoyer" />
     </fieldset>
 </form>
    <br />

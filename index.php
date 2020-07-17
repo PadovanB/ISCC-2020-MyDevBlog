@@ -19,6 +19,10 @@ include 'header.php';
     {
         include 'page-contact.php';
     }
+    if($_GET["page"]== "admin")
+    {
+        include 'page-admin.php';
+    }
     }
 include 'footer.php';
 ?>

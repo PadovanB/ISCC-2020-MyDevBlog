@@ -21,7 +21,7 @@ header{
 
 footer{
     font-family: "montserrat-regular";
-    height: 210px;
+    height: 200px;
     width: 100%;
     background-color: rgb(85,37,130);
     margin-top: 100px;
@@ -46,9 +46,18 @@ h3{
 
 h4{
     color: rgb(253,185,39);
+    padding-left: 10%;
+}
+h5{
+    padding-left: 10%;
+}
+
+h6{
+    color: #b9755e;
+    font-size: 20px;
 }
 p{
-    padding-left: 10%;
+    padding-left: 50%;
     padding-right: 10%;
 }
 
@@ -70,6 +79,7 @@ a:hover{
     height: 30px;
     background-color: rgb(253,185,39);
     padding-top: 10px;
+    
 
 }
 

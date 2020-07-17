@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "montserrat-regular";
+    src: url('Montserrat-Regular.ttf');
+}
+
+@font-face{
+    font-family: "raleway-regular";
+    src: url('Raleway-Regular.ttf');
+}
+
+
+body{
+    font-family: "montserrat-regular";
+    background-image: url(jordan3.jpg));
+    background-position: 50% 70%;
+    }

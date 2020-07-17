@@ -1,6 +1,6 @@
 <?php $page = 'articles'?>
 <html>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style-article.css">
 <meta charset="utf-8">
 <body style="background:RGB(221, 160, 221);">
 </body>
@@ -15,13 +15,26 @@ Dimanche 26 janvier, l’ancien champion américain de basket Kobe Bryant est mo
 
 « Cher basket-ball… » En novembre 2015, c’est dans une missive publiée sur The Players’ Tribune, que Kobe Bryant annonce sa retraite des parquets à venir. Embarqué dans une tournée d’adieux, il y relate son coup de foudre pour son sport depuis l’âge de 6 ans. Car Kobe Bryant a toujours aimé raconter des histoires, à commencer par la sienne.
 
-Fils d’un basketteur à l’éphémère carrière en NBA, Kobe Bean Bryant grandit là où les contrats de son père l’amènent. En Italie, d’abord, où le gamin se dote de solides fondamentaux, un court passage par Mulhouse, avant de s’enrôler dans un lycée de Philadelphie. Meilleur lycéen du pays, il saute la case université pour s’inscrire, à 17 ans, à la Draft NBA, cette loterie permettant aux plus mauvaises équipes de récupérer les meilleurs jeunes. Sélectionné en treizième position par les Charlotte Hornets, il est immédiatement transféré aux Los Angeles Lakers, l’une des plus grandes équipes de la Ligue. Selon son biographe, Roland Lazenby, ce changement d’adresse – et de marché – a été manœuvré en sous-main par Adidas, son sponsor, en quête du nouveau Michael Jordan.</p>
+Fils d’un basketteur à l’éphémère carrière en NBA, Kobe Bean Bryant grandit là où les contrats de son père l’amènent. En Italie, d’abord, où le gamin se dote de solides fondamentaux, un court passage par Mulhouse, avant de s’enrôler dans un lycée de Philadelphie. Meilleur lycéen du pays, il saute la case université pour s’inscrire, à 17 ans, à la Draft NBA, cette loterie permettant aux plus mauvaises équipes de récupérer les meilleurs jeunes. Sélectionné en treizième position par les Charlotte Hornets, il est immédiatement transféré aux Los Angeles Lakers, l’une des plus grandes équipes de la Ligue. Selon son biographe, Roland Lazenby, ce changement d’adresse – et de marché – a été manœuvré en sous-main par Adidas, son sponsor, en quête du nouveau Michael Jordan.
+
+- Auteur : Bastien</p>
+<center>
+<img class="kobe" src="style/kobe1.jpg" height="60%" width="80%" alt="Kobe Bryant">
+</center>
+
+
 
 <p>2- Kobe Bryant sera parmi les trois vedettes à figurer sur la jaquette du jeu vidéo NBA 2K21. La défunte star des Los Angeles Lakers, tuée dans un accident d’hélicoptère en janvier dernier, apparaîtra sur celle d’une édition spéciale.
 Une édition spéciale
 Le « Black Mamba » apparaîtra sur la jaquette d’une édition qui lui sera spécialement consacrée avec du contenu exclusif, baptisée « Mamba Forever ». Bryant, élu deux fois meilleur joueur des finales NBA et meilleur joueur de la saison régulière en 2008, a déjà été en couverture des éditions NBA 2K10 et NBA 2K17 Legend du jeu.
 
 La star des Portland Trail Blazers Damian Lillard sur PS4 et Xbox One et le « rookie » des New Orleans Pelicans Zion Williamson sur PS5 et Xbox Series X figureront également sur la jaquette des deux autres éditions de NBA 2K21, dont la version précédente a été le jeu vidéo le plus vendu aux États-Unis en 2019.
+- Auteur : Bastien
+
+<center>
+<img class="kobe" src="style/Kobe2K.jpg" height="60%" width="80%" alt="Kobe Bryant">
+</center>
+
 
   </p>
 
@@ -32,7 +45,15 @@ Alors que les équipes de NBA se rassemblent à Orlando en Floride, en vue de re
 
 Le championnat, interrompu depuis le 11 mars, consécutivement à l’annonce du test positif au coronavirus de Rudy Gobert (Utah) reprendra comme un symbole le 30 juillet par un match du Jazz et de son pivot français qui se mesureront à La Nouvelle-Orléans du phénomène Zion Williamson, avant un gros choc le soir même entre les Lakers de LeBron James et les Clippers de Kawhi Leonard.
 Des mesures de dépistage du coronavirus et de suivi des contacts seront mises en place, ce qui, espère Silver, rendra le campus sûr pour les joueurs et le personnel, malgré l’augmentation des cas de Covid-19 en Floride. Après les 351 premiers tests effectués depuis le 23 juin, 25 joueurs avaient été testés positifs, avait révélé la NBA le 2 juillet. Dix membres du personnel des clubs l’avaient aussi été.
+- Auteur : Bastien 
+
+<center>
+<img class="kobe" src="style/nba.jpg" height="60%" width="80%" alt="Kobe Bryant">
+</center>
+
+
 </p>
+
 
 <p>4- La bague que l’arrière avait achetée pour son père lors du titre de 2000 est mise aux enchères. Celle de sa mère a été récemment vendue 206 000 dollars.
 En 2000, Kobe Bryant a remporté le premier de ses cinq titres NBA. Pour l’occasion et parce qu’il n’était pas encore en froid avec ses parents, il avait acheté deux bagues de champion supplémentaires pour son père et sa mère.
@@ -42,6 +63,11 @@ Des bagues identiques à celles offertes aux joueurs des Lakers. Celle de la mè
 C’est donc autour de ce prix que celle de son père, Joe Bryant, pourrait partir aux enchères annonce Goldin Auctions. L’organisme qui s’occupe de cette vente s’attend à voir le bijou partir autour de 250 000 dollars.
 
 Il reste 26 jours d’enchères, et pour l’instant la bague s’arrache à 40 000 dollars.
+- Auteur : Bastien 
+<center>
+<img class="kobe" src="style/kobe2.jpg" height="60%" width="80%" alt="Kobe Bryant">
+</center>
+
   </p>
 
   <p>5- Cette rencontre de saison régulière sera reprogrammée à une date ultérieure, a indiqué l’instance.
@@ -61,6 +87,12 @@ Le premier joueur de l’équipe à avoir pris la parole est l’ailier Anthony 
 « Que c’est dur. Tu as été le premier gars à me prendre sous ton aile et à me montrer les rouages de la ligue. On a eu tellement de bonnes conversations sur tant de sujets et je chérirai ces moments pour toujours. Je t’aime pour toujours, #RIPKobe #RIPGiGi », a-t-il écrit lundi sur instagram.
 
 
+<center>
+<img class="kobe" src="style/lakers-1.jpg" height="60%" width="80%" alt="Kobe Bryant">
+</center>
+
+
+
 Le troisième duel « angelino » entre les Lakers et leurs rivaux des Clippers devait se jouer mardi soir au Staples Center, lieu des innombrables exploits de Bryant dont les deux maillots floqués du 8 et du 24 sont accrochés au plafond.
 
 Mais le club aux couleurs pourpre et or n’était pas prêt à repenser au basket aussi tôt. Son prochain match aura désormais lieu vendredi, à domicile, contre Portland.
@@ -77,23 +109,6 @@ Doc Rivers
 « Là, à cet instant, tout le monde est fan des Lakers. Nous sommes tous Lakers en ce moment », a-t-il conclu.
 
  </p>
-<?php
-$connect = mysqli_connect("localhost", "root", "", "blog-odile"); 
-if (!$connect) { 
-   echo "Échec de la connexion : ".mysqli_connect_error(); 
-   exit(); 
-} 
-$requete = "SELECT * FROM articles ORDER BY date_time_post DESC"; 
-   if ($resultat = mysqli_query($connect,$requete)) { 
-      date_default_timezone_set('Europe/Paris'); 
+ <h3><p><a href="http://localhost:8888/ISCC-2020-MyDevBlog/ISCC-2020-MyDevBlog/"><img class="retour" src="style/retour.png" height="10%" width="10%" alt="Retour"></p> 
 
-      while ($ligne = mysqli_fetch_assoc($resultat)) { 
-         $dt_debut = date_create_from_format('Y-m-d H:i:s', $ligne['date_time_post']); 
-         echo "<h4>".$ligne['titre']."</h4>"; 
-         echo "<h5>Le ".$dt_debut->format('d/m/Y H:i:s')."</h5>"; 
-         echo "<p>".$ligne['contenu']."</p>"; 
-      } 
-   } 
-   ?> 
-   <br /> 
-</html>
+
