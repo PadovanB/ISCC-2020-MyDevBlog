@@ -2,7 +2,7 @@
 <html><link rel="stylesheet" href="style.css"></html>
 <?php
 
-$bdd = new PDO("utilisateurs.php", "root", "");
+$bdd = new PDO("mysql:host=localhost;dbname=blog-bastien;charset=utf8", "root", "");
 if(isset($_POST['titre'], $_POST['red_article'])) {
    if(!empty($_POST['titre']) AND !empty($_POST['red_article'])) {
       
